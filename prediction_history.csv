@@ -1,0 +1,2 @@
+timestamp,input_text,cleaned_text,prediction,confidence,fake_probability,real_probability,explanation
+2026-07-16 03:48:06,The election commission announced official results after all polling stations completed vote counting under independent observation.,election commission announced official result polling station completed vote counting independent observation,Fake,0.8737325472448509,0.8737325472448509,0.12626745275514903,The article's word patterns are closer to fake-news examples in the training dataset. Model confidence: 87.37%.
